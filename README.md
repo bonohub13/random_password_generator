@@ -10,8 +10,8 @@
     - ```cmake .. && make```
 - [utilize]
     - To make a simple password only with numbers and alphabets
-        - ```./random_number_generator \<desired length of password\>```
+        - ```./random_number_generator <desired length of password>```
     - To make a complex password with special characters (ex: such as !, @)
-        - ```./random_number_generator -c \<desired length of password\>```<br/>
+        - ```./random_number_generator -c <desired length of password>```<br/>
         or
-        - ```./random_number_generator --complex \<desired length of password\>```
+        - ```./random_number_generator --complex <desired length of password>```
